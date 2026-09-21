@@ -11,7 +11,12 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 Add code here
+x = ('a', 'b', 'n', 5, 8, 10)
 
+print('n' in x)
+print(8 in x)
 ## Output
-
+True
+True
 ## Result
+Thus, the Python program to check the existence of 'n' and 8 in a tuple using the in operator was executed successfully.
